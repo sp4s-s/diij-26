@@ -1,3 +1,27 @@
+# Java
 bin/
+*.class
+
+# Database
 librarydb/
-# venv/
+db/
+derby.log
+
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# LaTeX artifacts
+report/*.aux
+report/*.log
+report/*.out
+report/*.pdf
+report/*.synctex.gz
+report/*.toc
+report/*.blg
+report/*.bbl
+
+# OS
+.DS_Store

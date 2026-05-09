@@ -1,0 +1,4 @@
+# Mark documentation files to be excluded from language statistics
+report/* linguist-documentation
+*.cls linguist-vendored
+*.md linguist-documentation
