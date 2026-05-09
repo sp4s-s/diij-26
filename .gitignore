@@ -17,7 +17,6 @@ __pycache__/
 report/*.aux
 report/*.log
 report/*.out
-report/*.pdf
 report/*.synctex.gz
 report/*.toc
 report/*.blg
