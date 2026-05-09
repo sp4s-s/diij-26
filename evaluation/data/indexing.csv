@@ -1,0 +1,4 @@
+Queries,FullScan,IndexedLookup
+100,583,0
+500,2617,1
+1000,5184,2
